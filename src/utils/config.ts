@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://random-social-media-server.herokuapp.com'
